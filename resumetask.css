@@ -1,0 +1,96 @@
+.container{
+    margin: auto;
+    margin-top: 30px; 
+    height: 1150px;
+    width: 900px;
+    outline: solid 2px black;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.page1{
+    outline: solid 2px black;
+    background-color: rgb(47, 60, 88);
+    color: white;
+    width: 225px;
+    padding: 20px;
+}
+
+.page2{
+    padding: 20px;
+    outline: solid 2px black;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 675px;
+} 
+.name{
+    text-align: center;
+    padding: 20px;
+}
+
+.tittle{
+    text-align: center;
+}
+
+.detail{
+    text-align: center;
+    padding: 20px;
+}
+
+.summ1{
+    text-decoration: underline;
+    padding: 20px;
+
+}
+.summ{
+    text-decoration: underline;
+    padding: 10px;
+
+}
+.summary{
+    padding: 10px;
+}
+.list{
+    padding: 10px;
+}
+
+.line{
+    padding: 12px;
+    padding-left: 10px;
+}
+.list1{
+    padding: 5px;
+    padding-left: 10px;
+}
+
+.date{
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+
+.place{
+    padding: 5px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.education{
+    width: 100%;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+.training{
+    padding: 5px;
+}
+
+
